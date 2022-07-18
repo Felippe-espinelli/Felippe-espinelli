@@ -5,7 +5,7 @@
 I'm a Brazilian Biophysicist which was always passionate about integrating neuroscience with computational to get a better understand of our brain. This journey led me to do a MSc in Biomedical engineering and a PhD in Biochemistry. </p>
 I love building new tools and using data analysis to answer questions and create new hypothesis. I'm always eager to learn and collaborate in something new.
 
-- 🔭 I’m currently working on **OCD classification and other random projects**
+- 🔭 I’m currently working on **OCD classification and other random projects** at the University of Cambridge as an researcher associate
 
 - 💬 Ask me about **Python, neuroscience or science in general**
 
