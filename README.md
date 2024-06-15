@@ -11,7 +11,7 @@ I love building new tools and using data analysis to answer questions and create
 
 - 📫 How to reach me: **felippe.espinelli@gmail.com**
 
-- 📄 If you want to know more about my academic experiences [https://drive.google.com/file/d/1_H8pw7ymlo7KDPW5ltLcGOmHL7GzpjNI/view?usp=sharing](https://drive.google.com/file/d/1_H8pw7ymlo7KDPW5ltLcGOmHL7GzpjNI/view?usp=sharing)
+- 📄 If you want to know more about my academic experiences [https://drive.google.com/file/d/1x2567EBn9PqMqkENAgOBvZq0IRr4508x/view?usp=sharing](https://drive.google.com/file/d/1x2567EBn9PqMqkENAgOBvZq0IRr4508x/view?usp=sharing)
 
 - ⚡ Fun fact: **I love playing electric guitar so much that I learned signal processing just to understand how effect pedals work**
 
