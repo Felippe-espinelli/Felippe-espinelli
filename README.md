@@ -2,16 +2,16 @@
 <h3 align="center">A Data Scientist | Neuroscientist</h3>
 
 ## A little about me
-I'm a Brazilian Biophysicist which was always passionate about integrating neuroscience with computational to get a better understand of our brain. This journey led me to do a MSc in Biomedical engineering and a PhD in Biochemistry. </p>
-I love building new tools and using data analysis to answer questions and create new hypothesis. I'm always eager to learn and collaborate in something new.
+I'm a Brazilian Biophysicist who was always passionate about integrating neuroscience with computational to get a better understand of our brain. This journey led me to do an MSc in Biomedical Engineering and a PhD in Biochemistry. </p>
+I love building new tools and using data analysis to answer questions and create new hypotheses. I'm always eager to learn and collaborate on something new.
 
-- 🔭 I’m currently working on **OCD classification and other random projects** at the University of Cambridge as an researcher associate
+- 🔭 I’m currently working on **OCD classification and other random projects** at the University of Cambridge as a Research Associate
 
 - 💬 Ask me about **Python, neuroscience or science in general**
 
 - 📫 How to reach me: **felippe.espinelli@gmail.com**
 
-- 📄 If you want to know more about my academic experiences [https://drive.google.com/file/d/1x2567EBn9PqMqkENAgOBvZq0IRr4508x/view?usp=sharing](https://drive.google.com/file/d/1x2567EBn9PqMqkENAgOBvZq0IRr4508x/view?usp=sharing)
+- 📄 If you want to know more about my academic experiences, here is my CV: https://drive.google.com/file/d/1gp-0Fz6cDMoKOkfj6Vi2m3rRF-011X7O/view?usp=drive_link
 
 - ⚡ Fun fact: **I love playing electric guitar so much that I learned signal processing just to understand how effect pedals work**
 
